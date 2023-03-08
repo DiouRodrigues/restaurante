@@ -5,5 +5,7 @@
 <ion-icon name="star"></ion-icon> star-black
 <ion-icon name="star-half"></ion-icon> star-half
 
+<ion-icon name="chevron-up-outline"></ion-icon> up arrow
+
 
 font-family: 'Lato', sans-serif; 300 400 700
