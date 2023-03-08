@@ -20,6 +20,9 @@
     background-color: var(--red);
     color: #fff;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Lato', sans-serif;
     font-size: 1.6rem;
